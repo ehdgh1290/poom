@@ -1,6 +1,5 @@
 # poom
 한국어 | [English](https://github.com/ehdgh1290/poom/blob/master/README-EN.md)
-품품품
 
 ## 두번째 제목
 - 강아지
