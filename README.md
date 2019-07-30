@@ -1,5 +1,5 @@
 # poom
-[English](README-EM.md)
+[English](https://github.com/ehdgh1290/poom/blob/master/README-EN.md)
 품품품
 
 ## 두번째 제목
